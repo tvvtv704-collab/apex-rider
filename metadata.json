@@ -1,0 +1,8 @@
+{
+  "name": "Apex Rider",
+  "description": "First-person perspective highway motorcycle racing game with 22 bikes, upgradeable garage, dynamic weather environments, traffic overtaking bonuses, and cloud-synced progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

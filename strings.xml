@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Apex Rider</string>
+    <string name="tagline_highway_rider">FIRST-PERSON HIGHWAY RIDER</string>
+    <string name="action_ride_now">RIDE HIGHWAY</string>
+    <string name="action_garage">GARAGE (22 BIKES)</string>
+    <string name="action_career">CAREER &amp; LOGS</string>
+    <string name="label_select_environment">HIGHWAY ENVIRONMENT</string>
+    <string name="label_traffic_mode">TRAFFIC FLOW</string>
+    <string name="label_controls_mode">STEERING INPUT</string>
+    <string name="label_garage_title">MOTORCYCLE GARAGE</string>
+    <string name="label_career_title">CAREER RECORDS</string>
+    <string name="label_local_save_notice">Progress, bikes, and records are saved locally on this device.</string>
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_pause_race">Pause ride</string>
+    <string name="cd_steer_left">Steer left</string>
+    <string name="cd_steer_right">Steer right</string>
+    <string name="cd_throttle">Throttle</string>
+    <string name="cd_brake">Brake</string>
+    <string name="cd_calibrate_gyro">Calibrate tilt steering</string>
+</resources>
